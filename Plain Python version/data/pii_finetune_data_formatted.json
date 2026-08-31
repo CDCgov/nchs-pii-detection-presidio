@@ -1,0 +1,3548 @@
+[
+  {
+    "hc_id": 100,
+    "encounter_id": 1,
+    "lab_eventnumber": 2,
+    "text": "John Smith lives at 123 Maple Street, Springfield, IL 62704.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 2,
+    "lab_eventnumber": 3,
+    "text": "The quarterly report was submitted on time.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 3,
+    "lab_eventnumber": 1,
+    "text": "Contact Jane D. at jane.doe@example.com for more info.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 4,
+    "lab_eventnumber": 2,
+    "text": "Our office is located downtown near the central park.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 5,
+    "lab_eventnumber": 3,
+    "text": "Call me at (555) 123-4567 to discuss the project.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 6,
+    "lab_eventnumber": 1,
+    "text": "The weather forecast predicts rain tomorrow.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 7,
+    "lab_eventnumber": 2,
+    "text": "Michael B. Jordan's social security number is 123-45-6789.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 8,
+    "lab_eventnumber": 3,
+    "text": "Please review the attached document before the meeting.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 9,
+    "lab_eventnumber": 1,
+    "text": "Send the package to 456 Elm St., Apt 5B, New York, NY 10001.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 10,
+    "lab_eventnumber": 2,
+    "text": "The new software update will be released next week.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 11,
+    "lab_eventnumber": 3,
+    "text": "Reach out to HR at hr@globexcorporation.com.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 12,
+    "lab_eventnumber": 1,
+    "text": "There are 15 participants registered for the webinar.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 13,
+    "lab_eventnumber": 2,
+    "text": "Sarah Connor's phone number is 987-654-3210.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 14,
+    "lab_eventnumber": 3,
+    "text": "The conference room is booked from 2 PM to 4 PM.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 15,
+    "lab_eventnumber": 1,
+    "text": "The employee ID 789456123 belongs to David Lee.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 16,
+    "lab_eventnumber": 2,
+    "text": "Our company, Initech, will host the annual gala.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 17,
+    "lab_eventnumber": 3,
+    "text": "The cat is sleeping on the couch.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 18,
+    "lab_eventnumber": 1,
+    "text": "Email support@initech.com for technical assistance.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 19,
+    "lab_eventnumber": 2,
+    "text": "The shipment arrived earlier than expected.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 20,
+    "lab_eventnumber": 3,
+    "text": "Jessica P. lives in 789 Pine Road, Austin, TX 73301.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 21,
+    "lab_eventnumber": 1,
+    "text": "The sales figures increased by 20% this quarter.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 22,
+    "lab_eventnumber": 2,
+    "text": "Call +1-800-555-0199 for customer service.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 23,
+    "lab_eventnumber": 3,
+    "text": "The park closes at 10 PM every night.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 24,
+    "lab_eventnumber": 1,
+    "text": "Robert Downey Jr.'s national ID is 987-65-4321.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 25,
+    "lab_eventnumber": 2,
+    "text": "The team meeting is scheduled for Monday morning.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 26,
+    "lab_eventnumber": 3,
+    "text": "Send invoices to accounting@umbrella-corp.com.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 27,
+    "lab_eventnumber": 1,
+    "text": "The library will be closed on public holidays.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 28,
+    "lab_eventnumber": 2,
+    "text": "Emily R. lives at 321 Oak Avenue, Denver, CO 80203.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 29,
+    "lab_eventnumber": 3,
+    "text": "The new product launch was a huge success.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 30,
+    "lab_eventnumber": 1,
+    "text": "You can reach me at 555.987.6543 anytime.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 31,
+    "lab_eventnumber": 2,
+    "text": "The annual report is available on the company website.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 32,
+    "lab_eventnumber": 3,
+    "text": "Mark Twain's social security number is 111-22-3333.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 33,
+    "lab_eventnumber": 1,
+    "text": "The office will be closed for maintenance this weekend.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 34,
+    "lab_eventnumber": 2,
+    "text": "Contact the CEO at ceo@starkindustries.com.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 35,
+    "lab_eventnumber": 3,
+    "text": "The garden has over 100 different species of plants.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 36,
+    "lab_eventnumber": 1,
+    "text": "Linda K. resides at 654 Cedar Lane, Miami, FL 33101.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 37,
+    "lab_eventnumber": 2,
+    "text": "The seminar starts at 9 AM sharp.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 38,
+    "lab_eventnumber": 3,
+    "text": "Phone number for the front desk: +44 20 7946 0958.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 39,
+    "lab_eventnumber": 1,
+    "text": "The museum is open from 10 AM to 6 PM daily.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 40,
+    "lab_eventnumber": 2,
+    "text": "Peter Parker's national ID is 222-33-4444.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 41,
+    "lab_eventnumber": 3,
+    "text": "The project deadline is next Friday.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 42,
+    "lab_eventnumber": 1,
+    "text": "Email marketing@wayneenterprises.com for partnership inquiries.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 43,
+    "lab_eventnumber": 2,
+    "text": "The cafeteria serves lunch from 12 PM to 2 PM.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 44,
+    "lab_eventnumber": 3,
+    "text": "Anna B. lives at 987 Birch Street, Seattle, WA 98101.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 45,
+    "lab_eventnumber": 1,
+    "text": "The software license expires in December.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 46,
+    "lab_eventnumber": 2,
+    "text": "Reach me at (212) 555-0198 for urgent matters.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 47,
+    "lab_eventnumber": 3,
+    "text": "The annual budget was approved by the board.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 48,
+    "lab_eventnumber": 1,
+    "text": "Samuel L. Jackson's social security number is 333-44-5555.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 49,
+    "lab_eventnumber": 2,
+    "text": "The elevator is out of service until further notice.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 50,
+    "lab_eventnumber": 3,
+    "text": "Contact info@acme-corp.com for customer support.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 51,
+    "lab_eventnumber": 1,
+    "text": "The parking lot has 50 available spaces.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 52,
+    "lab_eventnumber": 2,
+    "text": "Jessica Alba lives at 123 Palm Drive, Los Angeles, CA 90001.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 53,
+    "lab_eventnumber": 3,
+    "text": "The newsletter will be sent out next week.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 54,
+    "lab_eventnumber": 1,
+    "text": "Call +61 2 9876 5432 for international inquiries.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 55,
+    "lab_eventnumber": 2,
+    "text": "The gym is open 24/7 for all members.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 56,
+    "lab_eventnumber": 3,
+    "text": "Bruce Wayne's national ID is 444-55-6666.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 57,
+    "lab_eventnumber": 1,
+    "text": "The board meeting minutes are confidential.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 58,
+    "lab_eventnumber": 2,
+    "text": "Email finance@lexcorp.com for billing questions.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 59,
+    "lab_eventnumber": 3,
+    "text": "The cafeteria menu has been updated.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 60,
+    "lab_eventnumber": 1,
+    "text": "Megan Fox lives at 456 Spruce Street, Portland, OR 97201.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 61,
+    "lab_eventnumber": 2,
+    "text": "The software update will fix several bugs.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 62,
+    "lab_eventnumber": 3,
+    "text": "You can reach me at 555-321-4321.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 63,
+    "lab_eventnumber": 1,
+    "text": "The conference starts at 8 AM.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 64,
+    "lab_eventnumber": 2,
+    "text": "David G. has a social security number 555-66-7777.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 65,
+    "lab_eventnumber": 3,
+    "text": "The office kitchen is stocked with snacks.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 66,
+    "lab_eventnumber": 1,
+    "text": "Contact sales@globex.com for product inquiries.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 67,
+    "lab_eventnumber": 2,
+    "text": "The annual picnic will be held in the park.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 68,
+    "lab_eventnumber": 3,
+    "text": "Laura P. lives at 789 Willow Road, Boston, MA 02108.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 69,
+    "lab_eventnumber": 1,
+    "text": "The new policy will be effective starting next month.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 70,
+    "lab_eventnumber": 2,
+    "text": "Phone: +1 (303) 555-7890.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 71,
+    "lab_eventnumber": 3,
+    "text": "The building's fire alarm was tested yesterday.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 72,
+    "lab_eventnumber": 1,
+    "text": "Tony Stark's national ID is 666-77-8888.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 73,
+    "lab_eventnumber": 2,
+    "text": "The team lunch is scheduled for Friday.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 74,
+    "lab_eventnumber": 3,
+    "text": "Email contact@oscorp.com for more details.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 75,
+    "lab_eventnumber": 1,
+    "text": "The library books are due next week.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 76,
+    "lab_eventnumber": 2,
+    "text": "Rachel Z. lives at 321 Aspen Street, Chicago, IL 60601.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 77,
+    "lab_eventnumber": 3,
+    "text": "The software license key will expire soon.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 78,
+    "lab_eventnumber": 1,
+    "text": "Call +49 30 12345678 for support in Germany.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 79,
+    "lab_eventnumber": 2,
+    "text": "The garden club meets every Saturday.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 80,
+    "lab_eventnumber": 3,
+    "text": "Clark Kent's social security number is 777-88-9999.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 81,
+    "lab_eventnumber": 1,
+    "text": "The office will be closed on Monday for a holiday.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 82,
+    "lab_eventnumber": 2,
+    "text": "Email info@dailyplanet.com for press inquiries.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 83,
+    "lab_eventnumber": 3,
+    "text": "The water cooler is located near the break room.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 84,
+    "lab_eventnumber": 1,
+    "text": "Natalie P. lives at 654 Magnolia Blvd, San Diego, CA 92101.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 85,
+    "lab_eventnumber": 2,
+    "text": "The meeting agenda was sent to all participants.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 86,
+    "lab_eventnumber": 3,
+    "text": "Phone number: (415) 555-1234.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 87,
+    "lab_eventnumber": 1,
+    "text": "The new chairs arrived yesterday.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 88,
+    "lab_eventnumber": 2,
+    "text": "Peter D. has a national ID 888-99-0000.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 89,
+    "lab_eventnumber": 3,
+    "text": "The company picnic was a great success.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 90,
+    "lab_eventnumber": 1,
+    "text": "Contact hr@wayneenterprises.com for job openings.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 91,
+    "lab_eventnumber": 2,
+    "text": "The parking garage is full.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 92,
+    "lab_eventnumber": 3,
+    "text": "Jessica Alba's phone number is 555-654-3210.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 93,
+    "lab_eventnumber": 1,
+    "text": "The newsletter subscription has been renewed.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 94,
+    "lab_eventnumber": 2,
+    "text": "Call +1-212-555-6789 for customer service.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 95,
+    "lab_eventnumber": 3,
+    "text": "The office plants need watering.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 96,
+    "lab_eventnumber": 1,
+    "text": "Tony Stark's email is tony@starkindustries.com.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 97,
+    "lab_eventnumber": 2,
+    "text": "The fire drill will take place at 3 PM.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 98,
+    "lab_eventnumber": 3,
+    "text": "Linda K. lives at 987 Palm Street, Houston, TX 77002.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 99,
+    "lab_eventnumber": 1,
+    "text": "The software patch will be deployed tonight.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 100,
+    "encounter_id": 100,
+    "lab_eventnumber": 2,
+    "text": "Reach me at (702) 555-0199.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 101,
+    "lab_eventnumber": 3,
+    "text": "The office hours are from 9 AM to 5 PM.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 102,
+    "lab_eventnumber": 1,
+    "text": "Interview Notes:\n\nMaria Thompson called from (555) 321-9876 and provided detailed feedback on the program.\nShe mentioned her husband, John Thompson, who works as an architect.\nThey live at 789 Oak Street, Springfield, IL 62704.\n\nMaria was unsure about the next steps but promised to follow up next week.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 103,
+    "lab_eventnumber": 2,
+    "text": "Patient Report:\n\nName: Dr. Emily R.\nDOB: 02/14/1975\nSSN: 123-45-6789\n\nEmily is recovering well after surgery.\nNext appointment scheduled for 05/10/2024.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 104,
+    "lab_eventnumber": 3,
+    "text": "Meeting Summary:\n\nDiscussed quarterly goals and budget.\nAction items assigned to the marketing team.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 105,
+    "lab_eventnumber": 1,
+    "text": "Client Feedback:\n\n\"I, Robert K., can be reached at robert.k@example.com or my office number (212) 555-1234.\nThe service was excellent, and I appreciate the prompt response.\"\n\nSigned,\nRobert K.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 106,
+    "lab_eventnumber": 2,
+    "text": "Notes:\n\n- Call Sarah P. at 555.987.6543\n- Confirm address: 456 Maple Ave, Apt 3B\n- Check with HR about benefits",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 107,
+    "lab_eventnumber": 3,
+    "text": "Project Update:\n\nThe development team completed the initial phase.\nNext steps include testing and deployment.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 108,
+    "lab_eventnumber": 1,
+    "text": "Email from client:\n\nHi,\n\nPlease send the contract to jane.doe@umbrella-corp.com.\nAlso, confirm the meeting location at 1600 Pennsylvania Ave NW.\n\nThanks,\nMichael B.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 109,
+    "lab_eventnumber": 2,
+    "text": "Reminder:\n\n- Submit timesheets by Friday\n- Office closed on Monday\n- Team lunch at noon",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 110,
+    "lab_eventnumber": 3,
+    "text": "Interview Transcript:\n\nInterviewer: Can you confirm your full name and address?\nInterviewee: Yes, it’s Linda K., 654 Cedar Lane, Miami, FL 33101.\nInterviewer: And your contact number?\nInterviewee: (305) 555-0199.\n\nEnd of transcript.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 111,
+    "lab_eventnumber": 1,
+    "text": "Short note:\n\nCall +1-800-555-0199 for support.\nClient: Acme Corp.\n\nNo other details.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 112,
+    "lab_eventnumber": 2,
+    "text": "Memo:\n\nThe office will be closed for maintenance next week.\nPlease plan accordingly.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 113,
+    "lab_eventnumber": 3,
+    "text": "Interview Notes:\n\nJessica Alba mentioned she lives at 123 Palm Drive, Los Angeles, CA 90001.\nHer phone number is 555-654-3210.\nShe works at Stark Industries.\n\nShe requested a follow-up call next Tuesday.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 114,
+    "lab_eventnumber": 1,
+    "text": "Daily Log:\n\n- Checked emails\n- Scheduled meetings\n- No issues reported today.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 115,
+    "lab_eventnumber": 2,
+    "text": "Customer Support:\n\nCaller: Bruce Wayne\nPhone: 444-55-6666\nIssue: Account access\n\nResolved after verifying identity.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 116,
+    "lab_eventnumber": 3,
+    "text": "Notes:\n\nContact finance@lexcorp.com for billing.\nMeeting at 10 AM.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 117,
+    "lab_eventnumber": 1,
+    "text": "Interview Summary:\n\nPeter Parker confirmed his national ID as 222-33-4444.\nHe is currently employed at Oscorp.\nNo further details disclosed.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 118,
+    "lab_eventnumber": 2,
+    "text": "Weekly Update:\n\nAll teams are on track.\nNo sensitive information shared.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 119,
+    "lab_eventnumber": 3,
+    "text": "Short message:\n\nSSN: 555-66-7777\nCall me ASAP.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 120,
+    "lab_eventnumber": 1,
+    "text": "Email snippet:\n\nTo: support@dailyplanet.com\nSubject: Issue with account\n\nPlease reset my password.\nThanks,\nClark Kent",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 121,
+    "lab_eventnumber": 2,
+    "text": "General note:\n\nThe parking lot is full today.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 122,
+    "lab_eventnumber": 3,
+    "text": "Alice M. called from 555-234-5678 regarding the appointment.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 123,
+    "lab_eventnumber": 1,
+    "text": "Meeting rescheduled to 3 PM.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 124,
+    "lab_eventnumber": 2,
+    "text": "SSN: 987-65-4321",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 125,
+    "lab_eventnumber": 3,
+    "text": "Bob's email bob@example.com is no longer active.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 126,
+    "lab_eventnumber": 1,
+    "text": "Lunch at 12:30?",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 127,
+    "lab_eventnumber": 2,
+    "text": "Send docs to 1234 Elm St., Apt 9, Denver, CO.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 128,
+    "lab_eventnumber": 3,
+    "text": "Call mom.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 129,
+    "lab_eventnumber": 1,
+    "text": "Dr. Jane Smith, MD",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 130,
+    "lab_eventnumber": 2,
+    "text": "Client: Acme Corp.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 131,
+    "lab_eventnumber": 3,
+    "text": "No PII here, just random text.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 132,
+    "lab_eventnumber": 1,
+    "text": "Phone: +1 (800) 555-0199",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 133,
+    "lab_eventnumber": 2,
+    "text": "Meeting notes: Discuss Q3 targets.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 134,
+    "lab_eventnumber": 3,
+    "text": "Email: hr@globex.com",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 135,
+    "lab_eventnumber": 1,
+    "text": "Address: 742 Evergreen Terrace, Springfield",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 136,
+    "lab_eventnumber": 2,
+    "text": "Call John at 415-555-1234",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 137,
+    "lab_eventnumber": 3,
+    "text": "Reminder: submit report by Friday.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 138,
+    "lab_eventnumber": 1,
+    "text": "SSN 123-45-6789 belongs to client.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 139,
+    "lab_eventnumber": 2,
+    "text": "Contact: Sarah P., 555.987.6543",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 140,
+    "lab_eventnumber": 3,
+    "text": "The quick brown fox jumps over the lazy dog.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 141,
+    "lab_eventnumber": 1,
+    "text": "Invoice sent to Wayne Enterprises.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 142,
+    "lab_eventnumber": 2,
+    "text": "Patient: Michael B., DOB 01/01/1980",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 143,
+    "lab_eventnumber": 3,
+    "text": "Notes: Meeting postponed, new date TBD.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 144,
+    "lab_eventnumber": 1,
+    "text": "Email: contact@initech.com",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 145,
+    "lab_eventnumber": 2,
+    "text": "Location: 1600 Pennsylvania Ave NW, Washington, DC",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 146,
+    "lab_eventnumber": 3,
+    "text": "Call +44 20 7946 0958 for UK office.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 147,
+    "lab_eventnumber": 1,
+    "text": "No sensitive info in this note.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 148,
+    "lab_eventnumber": 2,
+    "text": "Dr. Emily R. - Cardiologist",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 149,
+    "lab_eventnumber": 3,
+    "text": "Phone # 303-555-0199",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 150,
+    "lab_eventnumber": 1,
+    "text": "Project deadline extended.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 151,
+    "lab_eventnumber": 2,
+    "text": "Send package to 500 Market St., San Francisco, CA 94105",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 152,
+    "lab_eventnumber": 3,
+    "text": "Client SSN: 555-66-7777",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 153,
+    "lab_eventnumber": 1,
+    "text": "Meeting at HQ, 10th floor.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 154,
+    "lab_eventnumber": 2,
+    "text": "Contact info: jane.doe@umbrella-corp.com",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 155,
+    "lab_eventnumber": 3,
+    "text": "Bob L. called from +1-212-555-6789",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 156,
+    "lab_eventnumber": 1,
+    "text": "Reminder: team lunch tomorrow.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 157,
+    "lab_eventnumber": 2,
+    "text": "Address: 1234 Maple Ave, Apt 2B",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 158,
+    "lab_eventnumber": 3,
+    "text": "SSN: 111-22-3333",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 159,
+    "lab_eventnumber": 1,
+    "text": "No PII in this message.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 160,
+    "lab_eventnumber": 2,
+    "text": "Contact: support@dailyplanet.com",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 161,
+    "lab_eventnumber": 3,
+    "text": "Phone: (415) 555-1234",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 162,
+    "lab_eventnumber": 1,
+    "text": "The report is confidential.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 163,
+    "lab_eventnumber": 2,
+    "text": "Dr. Peter Parker, ID 222-33-4444",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 164,
+    "lab_eventnumber": 3,
+    "text": "Meeting notes: Discuss budget.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 165,
+    "lab_eventnumber": 1,
+    "text": "Send email to finance@lexcorp.com",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 166,
+    "lab_eventnumber": 2,
+    "text": "Office closed on Monday.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 167,
+    "lab_eventnumber": 3,
+    "text": "Call +1 (702) 555-0199 ASAP.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 168,
+    "lab_eventnumber": 1,
+    "text": "Client: Stark Industries",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 169,
+    "lab_eventnumber": 2,
+    "text": "No personal info here.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 170,
+    "lab_eventnumber": 3,
+    "text": "john.doe@example.com called twice yesterday",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 171,
+    "lab_eventnumber": 1,
+    "text": "Patient 987-65-4321 missed appointment",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 172,
+    "lab_eventnumber": 2,
+    "text": "Call me at 555-123-4567 when you get a chance",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 173,
+    "lab_eventnumber": 3,
+    "text": "Meeting with Sarah P. rescheduled",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 174,
+    "lab_eventnumber": 1,
+    "text": "Next steps discussed, no updates yet",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 175,
+    "lab_eventnumber": 2,
+    "text": "Contact mike.brown@globex.com for details",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 176,
+    "lab_eventnumber": 3,
+    "text": "Appointment confirmed for 04/22",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 177,
+    "lab_eventnumber": 1,
+    "text": "Patient address changed to 456 Oak Ave Apt 7B",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 178,
+    "lab_eventnumber": 2,
+    "text": "The report was finalized last week",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 179,
+    "lab_eventnumber": 3,
+    "text": "Call 800-555-6789 for assistance",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 180,
+    "lab_eventnumber": 1,
+    "text": "Initials A.B. noted in chart",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 181,
+    "lab_eventnumber": 2,
+    "text": "Follow-up with drsmith@healthcare.org pending",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 182,
+    "lab_eventnumber": 3,
+    "text": "Vitals stable, no concerns",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 183,
+    "lab_eventnumber": 1,
+    "text": "Sarah's phone number is 5559876543",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 184,
+    "lab_eventnumber": 2,
+    "text": "Next appointment scheduled for May 10",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 185,
+    "lab_eventnumber": 3,
+    "text": "Billing questions? Reach out to billing@wayneenterprises.com",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 186,
+    "lab_eventnumber": 1,
+    "text": "Patient David L. called regarding symptoms",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 187,
+    "lab_eventnumber": 2,
+    "text": "No new updates on the project",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 188,
+    "lab_eventnumber": 3,
+    "text": "222334444 is the patient ID",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 189,
+    "lab_eventnumber": 1,
+    "text": "HR contact is hr@initech.com",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 190,
+    "lab_eventnumber": 2,
+    "text": "You can reach me at emily.jones@healthmail.com.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 191,
+    "lab_eventnumber": 3,
+    "text": "The capital of France is Paris.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 192,
+    "lab_eventnumber": 1,
+    "text": "Call 202-555-0198 for more information.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 193,
+    "lab_eventnumber": 2,
+    "text": "Our office is closed on federal holidays.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 194,
+    "lab_eventnumber": 3,
+    "text": "Michael Thompson lives at 789 Oak Drive, Denver.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 195,
+    "lab_eventnumber": 1,
+    "text": "The meeting will be held on the second floor.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 196,
+    "lab_eventnumber": 2,
+    "text": "Her social security number is 123-45-6789.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 197,
+    "lab_eventnumber": 3,
+    "text": "The CDC released new guidelines today.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 198,
+    "lab_eventnumber": 1,
+    "text": "Send the package to 321 Pine St, Seattle, WA.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 199,
+    "lab_eventnumber": 2,
+    "text": "The project deadline is next Friday.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 200,
+    "lab_eventnumber": 3,
+    "text": "Contact Dr. Lisa Nguyen at lisa.nguyen@medmail.org.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 201,
+    "lab_eventnumber": 1,
+    "text": "The sun rises in the east and sets in the west.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 202,
+    "lab_eventnumber": 2,
+    "text": "My phone number is 404-555-1234.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 203,
+    "lab_eventnumber": 3,
+    "text": "We will review the budget next week.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 204,
+    "lab_eventnumber": 1,
+    "text": "James lives at 12 Maple Avenue, Boston.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 205,
+    "lab_eventnumber": 2,
+    "text": "The train departs at 6:45 AM.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 206,
+    "lab_eventnumber": 3,
+    "text": "Reach out to me at alex.brown@company.com.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 207,
+    "lab_eventnumber": 1,
+    "text": "The Grand Canyon is a popular tourist destination.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 208,
+    "lab_eventnumber": 2,
+    "text": "Her address is 500 Sunset Blvd, Los Angeles.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 209,
+    "lab_eventnumber": 3,
+    "text": "The document is stored in the shared drive.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 210,
+    "lab_eventnumber": 1,
+    "text": "Call my office at (212) 555-7890.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 211,
+    "lab_eventnumber": 2,
+    "text": "The team will meet in Room 305.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 212,
+    "lab_eventnumber": 3,
+    "text": "My email is david.lee@research.org.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 213,
+    "lab_eventnumber": 1,
+    "text": "The report is due by the end of the month.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 214,
+    "lab_eventnumber": 2,
+    "text": "Sarah's birthday is on July 4th.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 215,
+    "lab_eventnumber": 3,
+    "text": "The file was last modified yesterday.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 216,
+    "lab_eventnumber": 1,
+    "text": "You can send mail to PO Box 1234, Miami, FL.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 217,
+    "lab_eventnumber": 2,
+    "text": "The presentation will start at 10 AM.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 218,
+    "lab_eventnumber": 3,
+    "text": "Contact number: 303-555-6789.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 219,
+    "lab_eventnumber": 1,
+    "text": "The cafeteria menu changes weekly.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 220,
+    "lab_eventnumber": 2,
+    "text": "Email me at nina.patel@cdc.gov.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 221,
+    "lab_eventnumber": 3,
+    "text": "The server is located in Building B.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 222,
+    "lab_eventnumber": 1,
+    "text": "His home address is 88 Birch Lane, Austin.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 223,
+    "lab_eventnumber": 2,
+    "text": "The webinar will be recorded.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 224,
+    "lab_eventnumber": 3,
+    "text": "Reach me at 555-000-1234.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 225,
+    "lab_eventnumber": 1,
+    "text": "The printer is out of toner.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 226,
+    "lab_eventnumber": 2,
+    "text": "My contact is jason.kim@techmail.net.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 227,
+    "lab_eventnumber": 3,
+    "text": "The meeting was rescheduled to Thursday.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 228,
+    "lab_eventnumber": 1,
+    "text": "Her number is 646-555-4321.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 229,
+    "lab_eventnumber": 2,
+    "text": "The elevator is under maintenance.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 230,
+    "lab_eventnumber": 3,
+    "text": "Mail it to 77 Cedar Street, Portland.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 231,
+    "lab_eventnumber": 1,
+    "text": "The lights turn off automatically at 8 PM.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 232,
+    "lab_eventnumber": 2,
+    "text": "Contact info: maria.garcia@edu.org.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 233,
+    "lab_eventnumber": 3,
+    "text": "The database was updated last night.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 234,
+    "lab_eventnumber": 1,
+    "text": "He lives at 999 Willow Way, Chicago.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 235,
+    "lab_eventnumber": 2,
+    "text": "The software update is complete.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 236,
+    "lab_eventnumber": 3,
+    "text": "Phone: 718-555-9876.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 237,
+    "lab_eventnumber": 1,
+    "text": "The conference starts tomorrow.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 238,
+    "lab_eventnumber": 2,
+    "text": "Email: tom.harris@agency.gov.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 239,
+    "lab_eventnumber": 3,
+    "text": "The file is in the archive folder.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 240,
+    "lab_eventnumber": 1,
+    "text": "Her SSN is 987-65-4321.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 241,
+    "lab_eventnumber": 2,
+    "text": "The lights in the hallway are flickering.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 242,
+    "lab_eventnumber": 3,
+    "text": "Reach out at 800-555-0000.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 243,
+    "lab_eventnumber": 1,
+    "text": "The schedule is posted on the board.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 244,
+    "lab_eventnumber": 2,
+    "text": "Send it to 234 Spruce Ave, Raleigh.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 245,
+    "lab_eventnumber": 3,
+    "text": "The team is working remotely today.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 246,
+    "lab_eventnumber": 1,
+    "text": "Contact: steve.miller@consulting.com.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 247,
+    "lab_eventnumber": 2,
+    "text": "The printer is located in Room 210.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 248,
+    "lab_eventnumber": 3,
+    "text": "Her email is priya.shah@university.edu.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 249,
+    "lab_eventnumber": 1,
+    "text": "The lights were turned off at 6 PM.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 250,
+    "lab_eventnumber": 2,
+    "text": "Call 415-555-1212 for assistance.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 251,
+    "lab_eventnumber": 3,
+    "text": "The report is saved in PDF format.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 252,
+    "lab_eventnumber": 1,
+    "text": "Mailing address: 1010 Elm St, Dallas.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 253,
+    "lab_eventnumber": 2,
+    "text": "The meeting lasted two hours.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 254,
+    "lab_eventnumber": 3,
+    "text": "Reach me at daniel.cho@nonprofit.org.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 255,
+    "lab_eventnumber": 1,
+    "text": "The elevator is on the third floor.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 256,
+    "lab_eventnumber": 2,
+    "text": "Her phone number is 213-555-6789.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 257,
+    "lab_eventnumber": 3,
+    "text": "The lights are motion-activated.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 258,
+    "lab_eventnumber": 1,
+    "text": "Email: laura.white@startup.io.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 259,
+    "lab_eventnumber": 2,
+    "text": "The server rebooted overnight.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 260,
+    "lab_eventnumber": 3,
+    "text": "Send documents to 654 Walnut St, Phoenix.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 261,
+    "lab_eventnumber": 1,
+    "text": "The team will reconvene next Monday.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 262,
+    "lab_eventnumber": 2,
+    "text": "Contact: brian.jones@enterprise.com.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 263,
+    "lab_eventnumber": 3,
+    "text": "The file is too large to email.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 264,
+    "lab_eventnumber": 1,
+    "text": "Her address is 432 Aspen Rd, Nashville.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 265,
+    "lab_eventnumber": 2,
+    "text": "The lights are controlled by a timer.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 266,
+    "lab_eventnumber": 3,
+    "text": "Phone: 917-555-3344.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 267,
+    "lab_eventnumber": 1,
+    "text": "The document is in the shared folder.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 268,
+    "lab_eventnumber": 2,
+    "text": "Email: rachel.green@lawfirm.com.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 269,
+    "lab_eventnumber": 3,
+    "text": "The meeting was productive.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 270,
+    "lab_eventnumber": 1,
+    "text": "Send it to 888 Redwood Blvd, San Jose.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 271,
+    "lab_eventnumber": 2,
+    "text": "The lights were dimmed for the presentation.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 272,
+    "lab_eventnumber": 3,
+    "text": "Contact: kevin.lee@finance.org.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 273,
+    "lab_eventnumber": 1,
+    "text": "The server is back online.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 274,
+    "lab_eventnumber": 2,
+    "text": "Her number is 818-555-7777.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 275,
+    "lab_eventnumber": 3,
+    "text": "The team is reviewing the proposal.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 276,
+    "lab_eventnumber": 1,
+    "text": "Reach me at olivia.martin@ngo.org.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 277,
+    "lab_eventnumber": 2,
+    "text": "The lights were turned off manually.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 278,
+    "lab_eventnumber": 3,
+    "text": "Mail it to 222 Cypress St, Tampa.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 279,
+    "lab_eventnumber": 1,
+    "text": "The file was uploaded successfully.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 280,
+    "lab_eventnumber": 2,
+    "text": "Contact: jake.wilson@agency.org.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 281,
+    "lab_eventnumber": 3,
+    "text": "The printer is jammed again.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 282,
+    "lab_eventnumber": 1,
+    "text": "Phone: 646-555-8888.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 283,
+    "lab_eventnumber": 2,
+    "text": "The report is being finalized.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 284,
+    "lab_eventnumber": 3,
+    "text": "Patient prefers to be contacted at jennifer.morris@healthmail.com.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 285,
+    "lab_eventnumber": 1,
+    "text": "Survey respondent listed their email as tommy_lee92@gmail.com.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 286,
+    "lab_eventnumber": 2,
+    "text": "For follow-up, use dr.singh@medcenter.org.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 287,
+    "lab_eventnumber": 3,
+    "text": "Participant 204 provided the email: maria.garcia@university.edu.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 288,
+    "lab_eventnumber": 1,
+    "text": "Email correspondence with the patient should go to john.doe@cdc.gov.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 289,
+    "lab_eventnumber": 2,
+    "text": "Volunteer’s contact: emily_r@nonprofit.net.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 290,
+    "lab_eventnumber": 3,
+    "text": "Please forward the lab results to kevin.brown@clinicmail.com.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 291,
+    "lab_eventnumber": 1,
+    "text": "Respondent entered 'n/a' for phone but gave email: sarah.jane@aol.com.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 292,
+    "lab_eventnumber": 2,
+    "text": "Use the address info@researchstudy.org for all inquiries.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 293,
+    "lab_eventnumber": 3,
+    "text": "Patient’s caregiver can be reached at caregiver.support@hospice.org.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 294,
+    "lab_eventnumber": 1,
+    "text": "DOB: 03/14/1985 — confirmed via ID.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 295,
+    "lab_eventnumber": 2,
+    "text": "Participant reported birthdate as July 9, 1992.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 296,
+    "lab_eventnumber": 3,
+    "text": "Date of birth listed in chart: 12-25-1970.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 297,
+    "lab_eventnumber": 1,
+    "text": "Respondent indicated they were born on 01/01/2000.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 298,
+    "lab_eventnumber": 2,
+    "text": "Patient’s birthdate is 6th June 1966.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 299,
+    "lab_eventnumber": 3,
+    "text": "DOB: 1988-11-30, verified with insurance.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 200,
+    "encounter_id": 300,
+    "lab_eventnumber": 1,
+    "text": "Subject 102: born March 3rd, 1995.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 301,
+    "lab_eventnumber": 2,
+    "text": "Birthdate entered as 10/10/2010 — likely incorrect.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 302,
+    "lab_eventnumber": 3,
+    "text": "She stated her birthday is April 4th.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 303,
+    "lab_eventnumber": 1,
+    "text": "Date of birth: 5/5/55 — noted during intake.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 304,
+    "lab_eventnumber": 2,
+    "text": "Mailing address: 123 Elm Street, Springfield, IL.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 305,
+    "lab_eventnumber": 3,
+    "text": "Lives at 4567 Pine Ave, Apt 3B, New York, NY.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 306,
+    "lab_eventnumber": 1,
+    "text": "Home address provided: 89 Maple Rd, Atlanta, GA 30303.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 307,
+    "lab_eventnumber": 2,
+    "text": "Patient recently moved to 22 Oak Lane, Denver.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 308,
+    "lab_eventnumber": 3,
+    "text": "Survey response: 'I live at 900 Birch Blvd, Tampa, FL.'",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 309,
+    "lab_eventnumber": 1,
+    "text": "Current residence: 77 Cedar Street, Portland, ME.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 310,
+    "lab_eventnumber": 2,
+    "text": "Mail should be sent to PO Box 123, Raleigh, NC.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 311,
+    "lab_eventnumber": 3,
+    "text": "Address on file: 321 Spruce Dr, San Diego, CA.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 312,
+    "lab_eventnumber": 1,
+    "text": "Participant listed 654 Walnut St, Phoenix, AZ as home.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 313,
+    "lab_eventnumber": 2,
+    "text": "Lives with parents at 1010 Redwood Blvd, San Jose, CA.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 314,
+    "lab_eventnumber": 3,
+    "text": "Patient name: Angela Martinez.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 315,
+    "lab_eventnumber": 1,
+    "text": "Interview conducted with Mr. James O’Connor.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 316,
+    "lab_eventnumber": 2,
+    "text": "Survey completed by Priya Shah.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 317,
+    "lab_eventnumber": 3,
+    "text": "Participant 304 identified as Kevin Thompson.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 318,
+    "lab_eventnumber": 1,
+    "text": "Signed by: Dr. Rachel Green.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 319,
+    "lab_eventnumber": 2,
+    "text": "Research assistant: Olivia Martin.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 320,
+    "lab_eventnumber": 3,
+    "text": "Volunteer name: Daniel Cho.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 321,
+    "lab_eventnumber": 1,
+    "text": "Respondent: Michael Johnson.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 322,
+    "lab_eventnumber": 2,
+    "text": "Caregiver listed as Laura White.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 323,
+    "lab_eventnumber": 3,
+    "text": "Chart updated by nurse Emily Jones.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 324,
+    "lab_eventnumber": 1,
+    "text": "Angela Martinez, born 03/03/1980, lives at 123 Oak St.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 325,
+    "lab_eventnumber": 2,
+    "text": "Contact Kevin at kevin.t@clinic.org or 456 Birch Rd.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 326,
+    "lab_eventnumber": 3,
+    "text": "DOB: 07/07/1977 — patient name: Rachel Green.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 327,
+    "lab_eventnumber": 1,
+    "text": "Michael Johnson (michael.j@med.org), born 1985-05-05.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 328,
+    "lab_eventnumber": 2,
+    "text": "Send results to emily.jones@cdc.gov, 789 Maple Ave.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 329,
+    "lab_eventnumber": 3,
+    "text": "Participant Priya Shah, born April 2, 1990, email: priya@study.org.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 330,
+    "lab_eventnumber": 1,
+    "text": "James O’Connor, 12/12/1960, lives at 101 Pine St.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 331,
+    "lab_eventnumber": 2,
+    "text": "Laura White, 1988-08-08, email: laura.w@research.net.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 332,
+    "lab_eventnumber": 3,
+    "text": "Daniel Cho, 654 Cedar Blvd, dob: 09/09/1999.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 333,
+    "lab_eventnumber": 1,
+    "text": "Olivia Martin, olivia@ngo.org, 321 Spruce Dr.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 334,
+    "lab_eventnumber": 2,
+    "text": "Patient: Sarah Kim, born 01/01/1975, lives at 88 Elm St.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 335,
+    "lab_eventnumber": 3,
+    "text": "Contact: tom.harris@agency.gov, DOB: 10-10-1980.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 336,
+    "lab_eventnumber": 1,
+    "text": "Volunteer: Nina Patel, 123 Birch Rd, email: nina.p@volunteer.org.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 337,
+    "lab_eventnumber": 2,
+    "text": "Dr. Singh, born 02/02/1962, email: dr.singh@clinic.org.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 338,
+    "lab_eventnumber": 3,
+    "text": "Participant: Jason Kim, 777 Redwood Blvd, born 1990-09-09.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 339,
+    "lab_eventnumber": 1,
+    "text": "Respondent: Maria Garcia, maria.g@edu.org, DOB: 03/03/1993.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 340,
+    "lab_eventnumber": 2,
+    "text": "Research subject: David Lee, 1010 Oak St, born 1982-12-12.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 341,
+    "lab_eventnumber": 3,
+    "text": "Contact info: brian.j@enterprise.com, 222 Cypress St.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 342,
+    "lab_eventnumber": 1,
+    "text": "Patient: Emily Jones, born 04/04/1984, email: emily@hospital.org.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 343,
+    "lab_eventnumber": 2,
+    "text": "Survey entry: John Doe, 05/05/1975, lives at 900 Pine Ave.",
+    "category": "Sample response",
+    "label": "PII",
+    "manual_pii_flag": 1
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 344,
+    "lab_eventnumber": 3,
+    "text": "Patient reported mild headache and fatigue.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 345,
+    "lab_eventnumber": 1,
+    "text": "Survey response: 'I feel better today than yesterday.'",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 346,
+    "lab_eventnumber": 2,
+    "text": "No known allergies or chronic conditions.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 347,
+    "lab_eventnumber": 3,
+    "text": "Participant declined to answer the question.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 348,
+    "lab_eventnumber": 1,
+    "text": "Vitals stable throughout the observation period.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 349,
+    "lab_eventnumber": 2,
+    "text": "Subject expressed concern about medication side effects.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 350,
+    "lab_eventnumber": 3,
+    "text": "Respondent noted difficulty sleeping.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 351,
+    "lab_eventnumber": 1,
+    "text": "No follow-up required at this time.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 352,
+    "lab_eventnumber": 2,
+    "text": "Patient was cooperative and alert.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 353,
+    "lab_eventnumber": 3,
+    "text": "Survey comment: 'The process was easy to follow.'",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 354,
+    "lab_eventnumber": 1,
+    "text": "Participant requested more information about the study.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 355,
+    "lab_eventnumber": 2,
+    "text": "No adverse events reported during the trial.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 356,
+    "lab_eventnumber": 3,
+    "text": "Subject completed all required tasks.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 357,
+    "lab_eventnumber": 1,
+    "text": "Respondent skipped the demographic section.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 358,
+    "lab_eventnumber": 2,
+    "text": "Patient asked about dietary restrictions.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 359,
+    "lab_eventnumber": 3,
+    "text": "Survey entry: 'I prefer not to say.'",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 360,
+    "lab_eventnumber": 1,
+    "text": "No changes in medication since last visit.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 361,
+    "lab_eventnumber": 2,
+    "text": "Participant was observed for 30 minutes post-dose.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 362,
+    "lab_eventnumber": 3,
+    "text": "Subject reported improved mood.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 363,
+    "lab_eventnumber": 1,
+    "text": "No additional notes were provided.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 364,
+    "lab_eventnumber": 2,
+    "text": "Survey comment: 'Everything went smoothly.'",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 365,
+    "lab_eventnumber": 3,
+    "text": "Patient expressed gratitude for the care received.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 366,
+    "lab_eventnumber": 1,
+    "text": "No family history of the condition.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 367,
+    "lab_eventnumber": 2,
+    "text": "Participant was unsure about the timeline.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 368,
+    "lab_eventnumber": 3,
+    "text": "Subject requested a printed copy of the consent form.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 369,
+    "lab_eventnumber": 1,
+    "text": "No symptoms reported during the follow-up.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 370,
+    "lab_eventnumber": 2,
+    "text": "Survey response: 'I don't remember exactly.'",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 371,
+    "lab_eventnumber": 3,
+    "text": "Patient was discharged without complications.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 372,
+    "lab_eventnumber": 1,
+    "text": "Subject was compliant with all instructions.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 373,
+    "lab_eventnumber": 2,
+    "text": "No further action is needed at this time.",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 374,
+    "lab_eventnumber": 1,
+    "text": "5 IU/L",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 375,
+    "lab_eventnumber": 1,
+    "text": "5 U/L",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 376,
+    "lab_eventnumber": 1,
+    "text": "5 fL",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 377,
+    "lab_eventnumber": 1,
+    "text": "5 mL/min/1.73",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 378,
+    "lab_eventnumber": 1,
+    "text": "5 pg",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 379,
+    "lab_eventnumber": 1,
+    "text": "5 calc",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 380,
+    "lab_eventnumber": 1,
+    "text": "5 (calc)",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 381,
+    "lab_eventnumber": 1,
+    "text": "5 K/uL",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 382,
+    "lab_eventnumber": 1,
+    "text": "5 IU/mL",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 383,
+    "lab_eventnumber": 1,
+    "text": "> 2",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 384,
+    "lab_eventnumber": 1,
+    "text": "< 2",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 385,
+    "lab_eventnumber": 1,
+    "text": 123.45,
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 386,
+    "lab_eventnumber": 1,
+    "text": "05/18/26",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 387,
+    "lab_eventnumber": 1,
+    "text": "05/18/2026",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 388,
+    "lab_eventnumber": 1,
+    "text": "10%",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 389,
+    "lab_eventnumber": 1,
+    "text": "5 x10e3/uL",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 390,
+    "lab_eventnumber": 1,
+    "text": "5 mg/dL",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 391,
+    "lab_eventnumber": 1,
+    "text": "5 g/dL",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 392,
+    "lab_eventnumber": 1,
+    "text": "5 ng/mL",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 393,
+    "lab_eventnumber": 1,
+    "text": "5 mmol/L",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  },
+  {
+    "hc_id": 300,
+    "encounter_id": 394,
+    "lab_eventnumber": 1,
+    "text": "A15.4",
+    "category": "Sample response",
+    "label": "NO_PII",
+    "manual_pii_flag": 0
+  }
+]
